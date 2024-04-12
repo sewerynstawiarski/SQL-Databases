@@ -1,7 +1,7 @@
-CREATE DATABASE coffe_store;
+CREATE DATABASE coffee_store;
 SHOW DATABASES;	
 
-USE coffe_store;
+USE coffee_store;
 
 CREATE TABLE products (
     id INT AUTO_INCREMENT PRIMARY KEY,
